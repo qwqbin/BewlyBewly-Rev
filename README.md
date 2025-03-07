@@ -1,5 +1,7 @@
 # BewlyBewly
 
+（此为BewlyBewly项目的Rev，目前BewlyBewly项目已经归档）
+
 English | [官话 - 简体中文](README-cmn_CN.md) | [官話 - 繁體中文](README-cmn_TW.md) | [廣東話](README-jyut.md)
 
 <p align="center" style="margin-bottom: 0px !important;">
